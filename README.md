@@ -7,8 +7,6 @@ data curation from Observed Antibody Space (OAS), baseline models, and a lightwe
 
 ---
 
-## 1. Scientific motivation
-
 Antibody discovery pipelines increasingly rely on large-scale sequence data and machine learning.  
 Two key questions are:
 
