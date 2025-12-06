@@ -81,9 +81,9 @@ For each CDR-H3 sequence we compute:
 
 These components are z-scored across the dataset and combined into a scalar:
 
-\[
+$\[
 \text{DevScore} = z_{\text{length}} + |z_{\text{charge}}| + z_{\text{hydrophobicity}}
-\]
+\]$
 
 We then formulate:
 
